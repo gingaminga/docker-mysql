@@ -1,6 +1,6 @@
 # Docker with MySQL
 
-Docker compose를 통한 MySQL 실행
+Docker compose를 사용한 MySQL 실행
 
 ## 준비하기
 
@@ -11,7 +11,7 @@ $ cd docker-mysql
 
 ### .env
 
-**.env.sample** 파일은 해당 환경변수들에 대한 설명이 작성되어 있습니다.
+**.env.sample** 파일은 사용하는 환경변수들에 대한 설명이 작성되어 있습니다.
 참고하여 **.env** 파일을 만듭니다.
 
 ```bash
